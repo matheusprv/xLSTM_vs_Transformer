@@ -3,6 +3,7 @@
 import random
 import string
 from pathlib import Path
+import pandas as pd
 
 def read_words(file_path="./palavras_pt_br.txt"):
     """
@@ -41,19 +42,20 @@ def sample_words_and_keys(list_of_words, n, keys_size=4):
                 keys.append(key)
                 break
             
-    pairs = zip(keys, sampled_words)
+    pairs = {
+        "keys": keys,
+        "words": sampled_words
+    }
     return pairs
 
 
 def save_samples(pairs, n, output_directory="."):
     """Save key-word pairs to ``samples_K=<N>.txt`` and return its path."""
 
-    output_path = Path(output_directory) / f"samples_K={n}.txt"
-
-    with output_path.open("w", encoding="utf-8") as output_file:
-        for key, word in pairs:
-            output_file.write(f"{key} => {word}\n")
-
+    output_path = Path(output_directory) / f"samples_K={n}.csv"
+    df = pd.DataFrame.from_dict(pairs)
+    df.to_csv(output_path, index=False)
+    
     return output_path
 
 
