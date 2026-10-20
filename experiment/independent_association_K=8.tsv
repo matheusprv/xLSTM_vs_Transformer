@@ -1,0 +1,10 @@
+chave	resposta_esperada	transformer	xlstm	manaca	tucano	sabia	llama	qwen
+NZUS	maquinas	1. 2. 3. 4. 5.	código: nzus palavra: código: nzus palavra: código:	nzuscódigo: nzuscódigo: nzuscódigo: n	ZLWB ResponderExcluir Adicionar comentário Carregar mais	maquinas Código: EIAZ Palavra: car	maquinas Código: EIAZ Palavra: carro	maquinas
+EIAZ	carro	1. 2. 3. 4. 5.	eiaz código: eiaz palavra: eiaz palavra: e	eiazcódigo: eiazcódigo: eiazcódigo: e	Respostas: 1 2 3 4 5	carro Código: HNUA Palavra: computador	carro Código: HNUA Palavra: computador C	carro
+HNUA	computador	1. 2. 3. 4. 5.	hnua palavra: hnua palavra: hnua palavra: hnua palavra:	hnuahnucódigo: hnuahnucódigo: hnuahnu	ZLWB Resolva o problema de matemática para continuar na próxima	arara Código: ZLWB Palavra: pes	computador Código: ZLWB Palavra: pescador	computador
+INZN	arara	1. 2. 3. 4. 5.	inzn palavra: inzn palavra: inzn palavra: inzn palavra:	inznèzcódigo: inznèzcódigo: inzn	ZLWB Instruções: 1 - Digite o código no campo	arara Código: ZLWB Palavra: pes	arara Código: ZLWB Palavra: pescador	arara
+ZLWB	pescador	1. 2. 3. 4. 5.	zlwb palavra: zlwb palavra: zlwb palavra: z	zlwbcódigo: zlwbzcódigo: zlwbzcódigo	zlwb Resolva o problema de matemática para continuar na próxima	Pescador Código: ZLWB Palavra:	pescador	pescador
+CASH	garrafa	1. 2. 3. 4. 5.	cash palavra: cash palavra: cash palavra: cash palavra: cash palavra: cash	$$$$$$$$$$$$$$$	Cash Resolva o problema de matemática e encontre a resposta.	GARRAFA Código: ZLWB Palavra	garrafa Código: INZN Palavra: arara	garrafa
+MAVD	terra	1. 2. 3. 4. 5.	100000000000000	snjcódigo: snjcódigo: snjcódigo:	ZLWB Resolva o problema de matemática e encontre a resposta	Resposta: Código: ZLWB Palav	terra	terra
+UTUX	elevador	1. 2. 3. 4. 5.	100000000000000	123456789999999	Respostas: 1 2 3 4 5	elevador Código: ZLWB Palavra: pes	elevador	elevador
+ZUIR	banana	1. 2. 3. 4. 5.	100000000000000	zuir código: 10000000000	ZUIR Resolva o problema de matemática e encontre a resposta.	BANANA Código: ZLWB Palavra	banana	banana
