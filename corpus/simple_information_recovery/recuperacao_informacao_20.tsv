@@ -1,0 +1,21 @@
+id	dificuldade	quantidade_itens	frase	resposta
+1	1	1	Ana tem um gato chamado Tico. Qual é o nome do gato de Ana?	Tico
+2	2	2	Bruno mora em Natal. Carla mora em Belém. Em qual cidade Bruno mora?	Natal
+3	3	3	Lia prefere chá. Rui prefere café. Bia prefere suco. O que Rui prefere?	Café
+4	4	4	O lápis de Davi é verde. O caderno é azul. A mochila é preta. A régua é amarela. Qual é a cor da régua?	Amarela
+5	5	5	Nina comprou arroz, feijão, leite, pão e maçã. Qual fruta Nina comprou?	Maçã
+6	6	6	A sala A tem 12 cadeiras. A B tem 18. A C tem 9. A D tem 15. A E tem 20. A F tem 14. Quantas cadeiras há na sala D?	15
+7	7	7	Caio chegou às 8h. Lara às 9h. Beto às 10h. Iris às 11h. Léo às 12h. Eva às 13h. Noé às 14h. Quando Iris chegou?	11h
+8	8	8	Ana usa o código 24. Bia, 37. Caio, 51. Duda, 68. Enzo, 73. Fabi, 82. Guto, 95. Hugo, 16. Qual é o código de Fabi?	82
+9	9	9	A caixa A tem sal. B tem areia. C tem vidro. D tem papel. E tem lã. F tem pedra. G tem grãos. H tem giz. I tem tinta. O que há na caixa G?	Grãos
+10	10	10	Em uma lista: 1 Lia; 2 Eva; 3 Rui; 4 Tom; 5 Bia; 6 Gil; 7 Ana; 8 Noé; 9 Leo; 10 Ivo. Quem está na posição 8?	Noé
+11	11	11	A1 é azul; A2, rosa; A3, cinza; A4, verde; A5, lilás; A6, preto; A7, branco; A8, bege; A9, roxo; A10, marrom; A11, coral. Qual é a cor de A9?	Roxo
+12	12	12	Lia=14; Bia=27; Eva=32; Ana=45; Rui=58; Tom=61; Gil=73; Ivo=86; Noé=19; Leo=24; Duda=37; Caio=49. Qual número pertence a Gil?	73
+13	13	13	P1:mel; P2:sal; P3:chá; P4:café; P5:arroz; P6:feijão; P7:pão; P8:leite; P9:óleo; P10:suco; P11:aveia; P12:farinha; P13:queijo. Qual item é P11?	Aveia
+14	14	14	A=7; B=4; C=9; D=2; E=8; F=5; G=1; H=6; I=3; J=0; K=11; L=13; M=12; N=10. Qual valor está associado a L?	13
+15	15	15	Rua 1: Ana; 2: Bia; 3: Caio; 4: Duda; 5: Enzo; 6: Fabi; 7: Guto; 8: Hugo; 9: Iris; 10: João; 11: Kátia; 12: Lia; 13: Mara; 14: Noé; 15: Olga. Quem mora na rua 12?	Lia
+16	16	16	K1=uva; K2=pera; K3=kiwi; K4=figo; K5=caju; K6=ameixa; K7=limão; K8=banana; K9=melão; K10=maçã; K11=manga; K12=goiaba; K13=caqui; K14=laranja; K15=abacaxi; K16=mamão. Qual fruta é K14?	Laranja
+17	17	17	T1:12; T2:13; T3:14; T4:15; T5:16; T6:17; T7:18; T8:19; T9:20; T10:21; T11:22; T12:23; T13:24; T14:25; T15:26; T16:27; T17:28. Qual é o valor de T13?	24
+18	18	18	A:sol; B:lua; C:mar; D:rio; E:lago; F:ilha; G:vale; H:serra; I:campo; J:flor; K:vento; L:chuva; M:neve; N:nuvem; O:areia; P:rocha; Q:brisa; R:onda. Qual palavra está em Q?	Brisa
+19	19	19	01=Ana; 02=Bia; 03=Cai; 04=Dan; 05=Eva; 06=Gil; 07=Ivo; 08=Lia; 09=Noé; 10=Rui; 11=Tom; 12=Zoe; 13=Leo; 14=Mel; 15=Ian; 16=Sol; 17=Lua; 18=Liz; 19=Rex. Quem corresponde a 16?	Sol
+20	20	20	A1=10; A2=20; A3=30; A4=40; A5=50; A6=60; A7=70; A8=80; A9=90; A10=100; A11=110; A12=120; A13=130; A14=140; A15=150; A16=160; A17=170; A18=180; A19=190; A20=200. Qual valor pertence a A17?	170
